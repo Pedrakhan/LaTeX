@@ -1,4 +1,0 @@
-select *
-from languages
-
-blub
